@@ -22,12 +22,12 @@ in the folder with the downloaded files
 ls /sys/class/leds/
 ```
 
-#### control a led manually
-to turn on 
+#### controlling leds manually
+#### to turn on 
 ```bash
 echo "1" | sudo tee /sys/class/leds/<led_name>/brightness
 ```
-to turn off 
+#### to turn off 
 ```bash
 echo "0" | sudo tee /sys/class/leds/<led_name>/brightness
 ```
