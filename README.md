@@ -1,4 +1,4 @@
-#Keyboard Leds
+# Keyboard Leds
 
 ## About
 This projects mimics (to the extent possible) the flashing leds of high end gaming keyboards, on a cheap regular keyboard.
